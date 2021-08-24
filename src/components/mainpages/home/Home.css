@@ -1,0 +1,191 @@
+*{
+  color: aliceblue;
+
+}
+.pup-pup{
+  border-radius: 50%;
+  width: 400px;
+}
+.pup2-svg{
+  text-align: center;
+}
+.container-box{
+    width: auto;
+  margin: auto;
+  display: block;
+  margin-top: -300px;
+
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#me{
+  display: inline-block;
+  height: 400px;
+  border-radius: 20px;
+  margin-top: 5%;
+  margin-left: 5%;
+  float: left;
+}
+.abtme{
+  padding-top: 5%;
+  color: black;
+}
+.abtmetxt{
+  width: 60%;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 33%;
+  font-size: 20px;
+  color: black;
+}
+.about-me{
+  display: block;
+  background-color: aliceblue;
+  width: 100%;
+  height: 500px;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.about-text{
+  display: inline;
+  height: 100%;
+  text-align: center;
+}
+.pnd-text{
+  background-color: transparent;
+  color: black;
+  font-size: x-large;
+}
+.pnd{
+  background-color: transparent;
+  color: black;
+  font-family: 'Satisfy', cursive;
+  margin-top: 5px;
+  padding-top: 0px;
+}
+.payment-sec{
+  background-color: aliceblue;
+  width: 100%;
+  height: 200px;
+
+
+  text-align:center;
+  border-radius: 10px;
+}
+.akc-title{
+  margin-top: 10px;
+  margin-left: 25px;
+  text-align: left;
+}
+
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    font-size: 60px;
+    font-family: 'VT323', monospace;
+    margin-top: -30%;
+    color: greenyellow;
+  }
+
+  .other{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    font-size: 60px;
+    font-family: 'VT323', monospace;
+    margin-top: -30%;
+    color: greenyellow;
+
+  }
+.home-section{
+    position: relative;
+ margin-bottom: 25px;
+ margin-top: 330px;
+  
+}
+h2.ship{
+  font-family: 'Satisfy', cursive;
+  font-size: xx-large;
+}
+.pay-svg{
+  background-color: transparent;
+  margin-top: 5px;
+}
+.insta-svg{
+  background-color: transparent;
+}
+
+.headline{
+  font-family: 'Satisfy', cursive;
+}
+
+.about-us{
+  text-align: center;
+  margin-top: 15px;
+}
+.akc-section{
+  margin-top: 20px;
+  display: inline-block;
+}
+.akc-svg{
+  float: left;
+  width: 200px;
+  margin-left: 10px;
+}
+.akc-text{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.bottom-svg{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+
+}
+@media screen and (max-width: 600px) {
+  .centered-text {
+    font-size: 25px;
+  }
+  .other{
+    font-size: 25px;
+  }
+  .akc-section{
+    display: grid;
+    margin-left: 20%;
+    justify-content: center;
+  }
+  .akc-text{
+    text-align: center;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-left: -11%;
+    font-size: unset;
+  }
+  .pnd-text{
+    font-size: unset;
+  }
+  .pup-pup{
+    width: 250px;
+  }
+}
+img.merle-dog{
+    display: block;
+    width: 100%;
+    height: 60%;
+    border-radius: 40px;
+}
+.img {
+    border:1px solid black;
+    }
+    .img:hover {
+    border: none;
+    box-shadow: 0 0 10px black inset;
+    }
