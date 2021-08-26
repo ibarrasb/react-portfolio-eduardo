@@ -86,9 +86,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: transparent;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'VT323', monospace;
-    margin-top: -30%;
+    margin-top: -35%;
     color: greenyellow;
   }
 
@@ -98,7 +98,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: transparent;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'VT323', monospace;
     margin-top: -30%;
     color: greenyellow;
@@ -157,6 +157,28 @@ h2.ship{
   .other{
     font-size: 25px;
   }
+  .about-me{
+    display: block;
+    height: unset;
+  }
+  .abtmetxt{
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 3px;
+    margin-left: unset;
+    width: unset;
+    
+  }
+  .about-text{
+    display: inline-block;
+    
+  }
+  #me{
+    height: 250px;
+    display: block;
+    margin-left: 25%;
+  }
+
   .akc-section{
     display: grid;
     margin-left: 20%;

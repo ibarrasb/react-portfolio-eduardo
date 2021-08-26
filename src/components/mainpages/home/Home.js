@@ -29,7 +29,7 @@ function Home() {
 
                 <div className="about-text">
                     <h1 className="abtme">About Me</h1>
-                    <p className="abtmetxt">I have lived in Texas my whole life, I consider myself a great problem solver. I love everything Sports such as the Dallas Mavericks; Cowboys and Stars. I enjoy skateboarding in my free time, and have a pet pug named 'Mr. Pug', who is 5 years old.
+                    <p className="abtmetxt">I have lived in Texas my whole life, I consider myself a great problem solver. I love everything Sports such as the Dallas Mavericks; Cowboys and Stars. I enjoy skateboarding in my free time.
 
                     I first started to code in my late teens, it was very interesting to me that I was able to bring some of my creative ideas to life. It started by building simple applications using C++, then going on to learn other languages. What first started as a hobby, has driven me to persue a full-time career.</p>
 
